@@ -1,16 +1,20 @@
-### Hi there 👋
+# Kaustubh Dwivedi
+- 📫 Reach me: 
+- [linkedin.com/in/kaustubhdwivedi1729](https://www.linkedin.com/in/kaustubhdwivedi1729/)
 
-<!--
-**onlykingKD/onlykingKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hii👋, 
+I'm Kaustubh Dwivedi, pre-final year undergraduate computer science student at VIT Vellore.
+I am passionate about technologies and open source. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚙️ I know Machine Learning -> Data Science. Deep Learning and NLP.
+- 🔭 I’m currently working on Web Development. (especially FrontEnd)
+- 🌱 I’m currently learning Data Structures and Algorithms. (CPP)
+- 💬 Hobbies : Reading, Playing Games, Coding, Music, Football.
+- ⚡ Languages: C++, Python3, Java
+
+
+---
+
+⭐️ From [Kaustubh Dwivedi](http://www.github.com/onlykingKD)
