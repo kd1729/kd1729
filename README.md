@@ -23,4 +23,9 @@ I am passionate about technologies and open source.
 
 ---
 
+## GitHub Stats 📊
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlykingKD&show_icons=true&locale=en" alt="onlykingKD" /></p>
+
+---
+
 ⭐️ From [Kaustubh Dwivedi](http://www.github.com/onlykingKD)
