@@ -1,10 +1,17 @@
 # Kaustubh Dwivedi
- 📫 Reach me: <br>
-- <a href = "https://www.linkedin.com/in/kaustubhdwivedi1729/">![image](https://user-images.githubusercontent.com/55577276/120760717-11a51400-c532-11eb-84d7-1f0964849d1e.png)</a>
-[linkedin.com/in/kaustubhdwivedi1729](https://www.linkedin.com/in/kaustubhdwivedi1729/)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaustubhdwivedi1729@gmail.com)](mailto:kaustubhdwivedi1729@gmail.com) kaustubhdwivedi1729@gmail.com
-- <a href = "https://www.facebook.com/kaustubh.dwivedi.94">![image](https://user-images.githubusercontent.com/55577276/120761241-9bed7800-c532-11eb-853e-6ec0de87bc7e.png)</a> https://www.facebook.com/kaustubh.dwivedi.94
+ 📫 Reach me at: <br>
+ 
+ <p align="center">
+ 	<a href='mailto:kaustubhdwivedi1729@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a>
+	<a href = 'https://github.com/onlykingKD/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45' /></a>
+	<a href = 'https://linkedin.com/in/kaustubhdwivedi1729/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+	<a href = 'https://instagram.com/onlykingkd/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
+	<a href = 'https://www.facebook.com/kaustubh.dwivedi.94/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
+ <a href = 'https://twitter.com/onlykingKD/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
 
+</p>
+ 
+ 
 ---
 
 
