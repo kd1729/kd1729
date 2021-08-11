@@ -17,7 +17,8 @@
 
 ## Hii👋, 
 I'm Kaustubh Dwivedi, pre-final year undergraduate computer science student at VIT Vellore.<br>
-I am passionate about technologies and open source. 
+I am passionate about technologies and open source. <br>
+<h3> <a href = "https://drive.google.com/file/d/1YwT4s3vg5co1AGdN-TABs_qZEhYiF-e6/view?usp=sharing"> My Resume </a> </h3> 
 
 
 - ⚙️ I know Machine Learning -> Data Science. Deep Learning and NLP.
