@@ -8,7 +8,7 @@
 	<a href = 'https://instagram.com/onlykingkd/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 	<a href = 'https://www.facebook.com/kaustubh.dwivedi.94/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
  <a href = 'https://twitter.com/onlykingKD/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
-
+<a href = 'https://dev.to/onlykingkd' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dev_to.svg height='45' weight='45'/></a>
 </p>
  
  
