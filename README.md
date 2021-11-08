@@ -1,4 +1,7 @@
 # Kaustubh Dwivedi
+<p><img align="center" src="https://komarev.com/ghpvc/?username=onlykingKD&style=flat-square" alt="primetanm" /></p>
+
+
  📫 Reach me at: <br>
  
  <p align="center">
