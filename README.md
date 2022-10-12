@@ -33,7 +33,7 @@ I am passionate about technologies and open source. <br>
 - 🌱 I’m currently learning Data Structures and Algorithms. (CPP)
 - 💬 Hobbies : Reading, Playing Games, Coding, Music, Football.
 - ⚡ Languages: C++, Python3, Java, JS
-- 😇 In future I wanna learn about Blockchain and Cloud Computing.
+- 😇 In future I wanna learn about Blockchain, Big Data and Cloud.
 
 
 ---
