@@ -23,13 +23,13 @@
 
 
 ## Hii👋, 
-I'm Kaustubh Dwivedi, pre-final year undergraduate computer science student at VIT Vellore.<br>
+I'm Kaustubh Dwivedi, final year undergraduate computer science student at VIT Vellore.<br>
 I am passionate about technologies and open source. <br>
 
 
 
-- ⚙️ I know Machine Learning -> Data Science. Deep Learning and NLP.
-- 🔭 I’m currently working on Web Development. (especially FrontEnd)
+- ⚙️ I know Frontend(ReactJS), Machine Learning (Data Science), Data Engineering (Beginner).
+- 🔭 I’m currently working on App Development (React Native) and Blockchain. 
 - 🌱 I’m currently learning Data Structures and Algorithms. (CPP)
 - 💬 Hobbies : Reading, Playing Games, Coding, Music, Football.
 - ⚡ Languages: C++, Python3, Java, JS
