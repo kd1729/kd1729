@@ -29,11 +29,11 @@ I am passionate about technologies and open source. <br>
 
 
 - ⚙️ I know Frontend(ReactJS), Machine Learning (Data Science), Data Engineering (Beginner).
-- 🔭 I’m currently working on App Development (React Native) and Blockchain. 
-- 🌱 I’m currently learning Data Structures and Algorithms. (CPP)
-- 💬 Hobbies : Reading, Playing Games, Coding, Music, Football.
+- 🔭 I’m currently working on my Internship Projects at [Ivanti](https://ivanti.com). 
+- 🌱 I’m currently learning Data Engineering and DevOps.
+- 💬 Hobbies : Reading, Movies, Coding, Music, Football.
 - ⚡ Languages: C++, Python3, Java, JS
-- 😇 In future I wanna learn about Blockchain, Big Data and Cloud.
+- 😇 My Primary Aim is to become a great Software Engineer.
 
 
 ---
@@ -45,4 +45,4 @@ I am passionate about technologies and open source. <br>
 
 ---
 
-⭐️ From [Kaustubh Dwivedi](http://www.github.com/onlykingKD)
+⭐️ From [Kaustubh Dwivedi](http://onlykingkd.com)
