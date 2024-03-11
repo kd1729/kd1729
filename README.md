@@ -30,10 +30,10 @@ I am passionate about technologies and open source.<br>
 
 - ⚙️ I know Frontend(ReactJS), Machine Learning (Data Science), Data Engineering (Beginner).
 - 🔭 I’m currently working as an Associate Software Engineer at [Ivanti](https://ivanti.com). 
-- 🌱 I’m currently learning Data Engineering and DevOps.
+- 🌱 Languages I know :  C/C++, Python3, Java, JS.
 - 💬 Hobbies : Reading, Movies, Coding, Music, Football.
-- ⚡ Languages: C++, Python3, Java, JS
-- 😇 Also looking for a SWE role in a product based company.
+- ⚡ Languages I am learning : Rust, Haskell, Golang.
+- 😇 Looking for a SWE/SDE role in a product based company.
 
 
 ---
