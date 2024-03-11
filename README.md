@@ -28,12 +28,14 @@ I am passionate about technologies and open source.<br>
 
 
 
-- ⚙️ I know Frontend(ReactJS), Machine Learning (Data Science), Data Engineering (Beginner).
+- ⚙️ What I know : Frontend(ReactJS/NextJS), Windows Developemnt(C/C++/Win32), Software Engineering.
+- 🙃 Some knowledge on : Developing APIs, Backend Developemnt, Data Science/ML, Big Data(Hadoop, Spark, Scala). 
 - 🔭 I’m currently working as an Associate Software Engineer at [Ivanti](https://ivanti.com). 
 - 🌱 Languages I know :  C/C++, Python3, Java, JS.
-- 💬 Hobbies : Reading, Movies, Coding, Music, Football.
 - ⚡ Languages I am learning : Rust, Haskell, Golang.
-- 😇 Looking for a SWE/SDE role in a product based company.
+- 💬 Major Hobbies : Reading, Movies, Coding, Music, Video Games.
+- ⚽ Sports I like : Football, Badminton, Table Tennis.
+- 😇 Talk to me about : Movies/Web Series, Football, F.R.I.E.N.D.S., Space, Science.
 
 
 ---
