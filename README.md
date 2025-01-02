@@ -21,7 +21,7 @@
 
 
 ## Hii👋, 
-I am Kaustubh Dwivedi, 2023 CSE graduate from VIT Vellore.<br>
+I am Kaustubh Dwivedi. I work as Software Engineer in Google.<br>
 I am passionate about technologies and open source.<br>
 
 
@@ -30,7 +30,7 @@ I am passionate about technologies and open source.<br>
 - 🙃 Some knowledge on : Developing APIs, Backend Developemnt, Data Science/ML, Big Data(Hadoop, Spark, Scala). 
 - 🔭 I’m currently working as an Associate Software Engineer at [Ivanti](https://ivanti.com). 
 - 🌱 Languages I know :  C/C++, Python3, Java, JS.
-- ⚡ Languages I am learning : Rust, Haskell, Golang.
+- ⚡ Languages I wanted to learn : Rust, Haskell, Golang.
 - 💬 Major Hobbies : Reading, Movies, Coding, Music, Video Games.
 - ⚽ Sports I like : Football, Badminton, Table Tennis.
 - 😇 Talk to me about : Movies/Web Series, Football, F.R.I.E.N.D.S., Space, Science.
